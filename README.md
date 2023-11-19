@@ -1,4 +1,4 @@
-# Tip-Calculator
+# Tip-Calculator 
 Welcome to the [`Tip Calculator`](https://elyse502.github.io/Tip-Calculator/), a simple and user-friendly web application designed to make splitting bills and calculating tips a breeze!
 
 ## Features 🏗️
