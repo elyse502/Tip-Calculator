@@ -10,12 +10,12 @@ Welcome to the [`Tip Calculator`](https://elyse502.github.io/Tip-Calculator/), a
 1. **Enter Bill Total**: Input the total amount of your bill.
 2. **Select Tip Percentage**: Choose the desired tip percentage using the provided slider.
 3. **Specify Number of People**: If you're splitting the bill, indicate the number of people.
-4. **Get Results**: Witness the Tip Calculator work its magic, displaying the calculated tip and total per person in real-time.
+4. **Get Results**: Witness the `Tip Calculator` work its magic, displaying the calculated tip and total per person in real-time.
 
 ## Technologies Used 🧰
 * **HTML**: Structure for the web page.
 * **CSS**: Styling for a clean and intuitive interface.
-* **JavaScript**: Powers the interactive and dynamic features of the Tip Calculator.
+* **JavaScript**: Powers the interactive and dynamic features of the `Tip Calculator`.
 
 ## Try it Out🤗
 Visit [Tip Calculator](https://elyse502.github.io/Tip-Calculator/) and simplify the process of splitting bills and calculating tips with ease!
