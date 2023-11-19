@@ -12,7 +12,7 @@ Welcome to the [`Tip Calculator`](https://elyse502.github.io/Tip-Calculator/), a
 3. **Specify Number of People**: If you're splitting the bill, indicate the number of people.
 4. **Get Results**: Witness the Tip Calculator work its magic, displaying the calculated tip and total per person in real-time.
 
-## Technologies Used 🏟
+## Technologies Used 🧰
 * **HTML**: Structure for the web page.
 * **CSS**: Styling for a clean and intuitive interface.
 * **JavaScript**: Powers the interactive and dynamic features of the Tip Calculator.
