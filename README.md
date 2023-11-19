@@ -22,7 +22,7 @@ Visit [Tip Calculator](https://elyse502.github.io/Tip-Calculator/) and simplify 
 
 Feel free to contribute, report issues, or suggest improvements. Happy calculating!
 
-# Author :writing_hand:
+# Author✍️:
 1. _[NIYIBIZI Elysée](https://linktr.ee/niyibizi_elysee) | [Github](https://github.com/elyse502) | [Linkedin](https://www.linkedin.com/in/niyibizi-elys%C3%A9e/) | [Twitter](https://twitter.com/Niyibizi_Elyse)._
 
 
