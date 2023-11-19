@@ -4,7 +4,7 @@ Welcome to the [`Tip Calculator`](https://elyse502.github.io/Tip-Calculator/), a
 ## Features 🏗️
 * **Easy Input**: Provide your total bill amount and tip percentage effortlessly.
 * **Real-time Calculation**: Instantly see the calculated tip and total amount per person as you input the values.
-* **Bill Splitting**: Perfect for dining out with friends! The Tip Calculator divides the total amount equally among the specified number of people.
+* **Bill Splitting**: Perfect for dining out with friends! The `Tip Calculator` divides the total amount equally among the specified number of people.
 
 ## How to Use 💻
 1. **Enter Bill Total**: Input the total amount of your bill.
